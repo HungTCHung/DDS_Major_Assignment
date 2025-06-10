@@ -1,1 +1,4 @@
 ml-10M100K/ratings12.dat
+.venv/
+__pycache__/    
+venv
